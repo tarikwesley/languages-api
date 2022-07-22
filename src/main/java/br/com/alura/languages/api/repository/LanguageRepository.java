@@ -1,6 +1,6 @@
-package br.com.alura.linguagens.api.repository;
+package br.com.alura.languages.api.repository;
 
-import br.com.alura.linguagens.api.model.Language;
+import br.com.alura.languages.api.model.Language;
 import org.springframework.data.mongodb.repository.MongoRepository;
 import org.springframework.stereotype.Repository;
 

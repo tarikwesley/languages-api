@@ -1,4 +1,4 @@
-package br.com.alura.linguagens.api.model;
+package br.com.alura.languages.api.model;
 
 import lombok.Data;
 import org.springframework.data.annotation.Id;
@@ -8,7 +8,7 @@ import javax.validation.constraints.NotBlank;
 import javax.validation.constraints.NotNull;
 
 @Data
-@Document
+@Document(collection = "mainLanguages")
 public class Language {
   @Id private String id;
   @NotBlank private String name;

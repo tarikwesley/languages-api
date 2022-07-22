@@ -9,10 +9,10 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>br.com.alura</groupId>
-    <artifactId>linguagens-api</artifactId>
+    <artifactId>languages-api</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>linguagens-api</name>
-    <description>linguagens-api</description>
+    <name>languages-api</name>
+    <description>languages-api</description>
     <properties>
         <java.version>17</java.version>
     </properties>

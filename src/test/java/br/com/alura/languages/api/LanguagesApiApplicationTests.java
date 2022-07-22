@@ -1,4 +1,4 @@
-package br.com.alura.linguagens.api;
+package br.com.alura.languages.api;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
